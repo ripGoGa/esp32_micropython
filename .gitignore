@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+.vscode/
+# secrets (use config.example.py as a template)
+config.py
